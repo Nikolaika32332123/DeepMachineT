@@ -1,6 +1,6 @@
-# DeepMachineT: An Energy-Efficient ML Framework in C++
+# DeepMachineT
 
-DeepMachineT is a high-performance machine learning framework written in pure C++ with Python bindings. The system is designed to explore alternative learning paradigms, abandoning classical backpropagation in favor of local reinforcement learning and integer arithmetic.
+DeepMachineT is a C++ library for machine learning experiments with Python bindings. It explores alternative learning paradigms, replacing classical backpropagation with local reinforcement learning and integer arithmetic.
 
 The main idea: maximum efficiency by eliminating expensive floating-point operations and using only integer logic, making the system ideal for embedded systems and energy-critical applications.
 
