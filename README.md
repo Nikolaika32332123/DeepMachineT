@@ -12,7 +12,7 @@ The main idea: maximum efficiency by eliminating expensive floating-point operat
 - ✅ Only **integer arithmetic** (`uint8` weights)
 - ✅ No matrix multiplication (FLOAT operations)
 - ✅ Operations: addition, comparison, logical AND
-- ✅ Orders of magnitude less power consumption** on CPU vs. PyTorch/TensorFlow
+- ✅ Orders of magnitude less power consumption on CPU vs. PyTorch/TensorFlow
 
 ### 2. **Biologically inspired learning**
 - ✅ Local learning rules (LTP/LTD) instead of global gradient descent
