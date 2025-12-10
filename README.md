@@ -18,7 +18,7 @@ The main idea: maximum efficiency by eliminating expensive floating-point operat
 - ✅ Local learning rules (LTP/LTD) instead of global gradient descent
 - ✅ Stochastic hypothesis search (synaptogenesis)
 - ✅ Adaptive plasticity through the "awareness" mechanism (Deliberate mode)
-- ✅ Solution to the problem of catastrophic forgetting**
+- ✅ Solution to the problem of catastrophic forgetting
 
 ### 3. **Full Interpretability**
 - ✅ Each decision has an **explicit reasoning trace** — a chain of activated neurons
